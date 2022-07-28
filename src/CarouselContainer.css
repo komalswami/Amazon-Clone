@@ -1,0 +1,14 @@
+
+
+h3 {
+    color: rgb(226, 95, 43);
+    border: 3px;
+    border-color: rgb(226, 95, 43);
+}
+
+.c__image {
+    width: 100%;
+    z-index: -1;
+    margin-bottom: -150px;
+    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+}
